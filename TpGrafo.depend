@@ -1,0 +1,593 @@
+# depslib dependency file v1.0
+1444593176 source:/home/jose/Documents/TpGrafo/main.c
+	<stdio.h>
+	<stdlib.h>
+	"TadGrafo.h"
+	"Lista.h"
+
+1443921527 /home/jose/Documents/TpGrafo/TadGrafo.h
+
+1444592369 source:/home/jose/Documents/TpGrafo/TadGrafo.c
+	"TadGrafo.h"
+	<stdio.h>
+	<stdlib.h>
+
+1444591853 source:/home/jose/Documents/TpGrafo/Lista.c
+	"Lista.h"
+	<stdio.h>
+	<stdlib.h>
+
+1444590149 /home/jose/Documents/TpGrafo/Lista.h
+
+1444594592 source:/home/jose/Documents/TpGrafo - 2/Lista.c
+	"Lista.h"
+	<stdio.h>
+	<stdlib.h>
+
+1444597533 /home/jose/Documents/TpGrafo - 2/Lista.h
+
+1444596077 source:/home/jose/Documents/TpGrafo - 2/main.c
+	<stdio.h>
+	<stdlib.h>
+	"TadGrafo.h"
+	"Lista.h"
+
+1444596521 /home/jose/Documents/TpGrafo - 2/TadGrafo.h
+
+1444593548 source:/home/jose/Documents/TpGrafo - 2/TadGrafo.c
+	"TadGrafo.h"
+	<stdio.h>
+	<stdlib.h>
+
+1444593548 source:/home/jose/Documents/TpGrafo - 3/TadGrafo.c
+	"TadGrafo.h"
+	<stdio.h>
+	<stdlib.h>
+
+1444596521 /home/jose/Documents/TpGrafo - 3/TadGrafo.h
+
+1444601499 source:/home/jose/Documents/TpGrafo - 3/main.c
+	<stdio.h>
+	<stdlib.h>
+	"TadGrafo.h"
+	"Lista.h"
+
+1444601310 /home/jose/Documents/TpGrafo - 3/Lista.h
+
+1444601428 source:/home/jose/Documents/TpGrafo - 3/Lista.c
+	"Lista.h"
+	<stdio.h>
+	<stdlib.h>
+
+1444604921 source:/home/jose/Documents/TpGrafo - 4/Fila.c
+	<stdio.h>
+	<stdlib.h>
+	"Fila.h"
+
+1444604781 /home/jose/Documents/TpGrafo - 4/Fila.h
+
+1444606181 source:/home/jose/Documents/TpGrafo - 4/Lista.c
+	"Lista.h"
+	"Fila.h"
+	<stdio.h>
+	<stdlib.h>
+
+1444606203 /home/jose/Documents/TpGrafo - 4/Lista.h
+
+1444593548 source:/home/jose/Documents/TpGrafo - 4/TadGrafo.c
+	"TadGrafo.h"
+	<stdio.h>
+	<stdlib.h>
+
+1444596521 /home/jose/Documents/TpGrafo - 4/TadGrafo.h
+
+1444604136 source:/home/jose/Documents/TpGrafo - 4/main.c
+	<stdio.h>
+	<stdlib.h>
+	"TadGrafo.h"
+	"Lista.h"
+
+1444604921 source:/home/jose/Documents/TpGrafo - 5/Fila.c
+	<stdio.h>
+	<stdlib.h>
+	"Fila.h"
+
+1444604781 /home/jose/Documents/TpGrafo - 5/Fila.h
+
+1444779501 source:/home/jose/Documents/TpGrafo - 5/main.c
+	<stdio.h>
+	<stdlib.h>
+	"TadGrafo.h"
+	"Lista.h"
+
+1444777026 /home/jose/Documents/TpGrafo - 5/TadGrafo.h
+
+1444779457 /home/jose/Documents/TpGrafo - 5/Lista.h
+
+1444777022 source:/home/jose/Documents/TpGrafo - 5/TadGrafo.c
+	"TadGrafo.h"
+	<stdio.h>
+	<stdlib.h>
+
+1444779453 source:/home/jose/Documents/TpGrafo - 5/Lista.c
+	"Lista.h"
+	"Fila.h"
+	<stdio.h>
+	<stdlib.h>
+
+1444604921 source:/home/jose/Documents/TpGrafo - 6/Fila.c
+	<stdio.h>
+	<stdlib.h>
+	"Fila.h"
+
+1444604781 /home/jose/Documents/TpGrafo - 6/Fila.h
+
+1444946765 source:/home/jose/Documents/TpGrafo - 6/main.c
+	<stdio.h>
+	<stdlib.h>
+	"TadGrafo.h"
+	"Lista.h"
+
+1444777026 /home/jose/Documents/TpGrafo - 6/TadGrafo.h
+
+1444946468 /home/jose/Documents/TpGrafo - 6/Lista.h
+
+1444777022 source:/home/jose/Documents/TpGrafo - 6/TadGrafo.c
+	"TadGrafo.h"
+	<stdio.h>
+	<stdlib.h>
+
+1444946813 source:/home/jose/Documents/TpGrafo - 6/Lista.c
+	"Lista.h"
+	"Fila.h"
+	<stdio.h>
+	<stdlib.h>
+
+1444604921 source:/home/jose/Documents/TpGrafo - 8/Fila.c
+	<stdio.h>
+	<stdlib.h>
+	"Fila.h"
+
+1444604781 /home/jose/Documents/TpGrafo - 8/Fila.h
+
+1445996526 source:/home/jose/Documents/TpGrafo - 8/Lista.c
+	"Lista.h"
+	"Fila.h"
+	<stdio.h>
+	<stdlib.h>
+
+1445996356 /home/jose/Documents/TpGrafo - 8/Lista.h
+
+1445996376 source:/home/jose/Documents/TpGrafo - 8/main.c
+	<stdio.h>
+	<stdlib.h>
+	"TadGrafo.h"
+	"Lista.h"
+
+1444777026 /home/jose/Documents/TpGrafo - 8/TadGrafo.h
+
+1445995221 source:/home/jose/Documents/TpGrafo - 8/TadGrafo.c
+	"TadGrafo.h"
+	<stdio.h>
+	<stdlib.h>
+
+1444604921 source:/home/jose/Documents/TpGrafo - 9/Fila.c
+	<stdio.h>
+	<stdlib.h>
+	"Fila.h"
+
+1444604781 /home/jose/Documents/TpGrafo - 9/Fila.h
+
+1445996526 source:/home/jose/Documents/TpGrafo - 9/Lista.c
+	"Lista.h"
+	"Fila.h"
+	<stdio.h>
+	<stdlib.h>
+
+1445996356 /home/jose/Documents/TpGrafo - 9/Lista.h
+
+1446071923 source:/home/jose/Documents/TpGrafo - 9/main.c
+	<stdio.h>
+	<stdlib.h>
+	"TadGrafo.h"
+	"Lista.h"
+
+1446071847 /home/jose/Documents/TpGrafo - 9/TadGrafo.h
+
+1446071851 source:/home/jose/Documents/TpGrafo - 9/TadGrafo.c
+	"TadGrafo.h"
+	<stdio.h>
+	<stdlib.h>
+
+1446250599 source:/home/jose/Documents/TpGrafo - 10/Fila.c
+	<stdio.h>
+	<stdlib.h>
+	"Fila.h"
+
+1446250610 /home/jose/Documents/TpGrafo - 10/Fila.h
+
+1446293723 source:/home/jose/Documents/TpGrafo - 10/Lista.c
+	"Lista.h"
+	"Fila.h"
+	<stdio.h>
+	<stdlib.h>
+
+1445996356 /home/jose/Documents/TpGrafo - 10/Lista.h
+
+1446293800 source:/home/jose/Documents/TpGrafo - 10/main.c
+	<stdio.h>
+	<stdlib.h>
+	"TadGrafo.h"
+	"Lista.h"
+
+1446071847 /home/jose/Documents/TpGrafo - 10/TadGrafo.h
+
+1446249312 source:/home/jose/Documents/TpGrafo - 10/TadGrafo.c
+	"TadGrafo.h"
+	<stdio.h>
+	<stdlib.h>
+
+1446250599 source:/home/jose/Documents/TpGrafo - 11/Fila.c
+	<stdio.h>
+	<stdlib.h>
+	"Fila.h"
+
+1446250610 /home/jose/Documents/TpGrafo - 11/Fila.h
+
+1446294963 source:/home/jose/Documents/TpGrafo - 11/main.c
+	<stdio.h>
+	<stdlib.h>
+	"TadGrafo.h"
+	"Lista.h"
+
+1446071847 /home/jose/Documents/TpGrafo - 11/TadGrafo.h
+
+1445996356 /home/jose/Documents/TpGrafo - 11/Lista.h
+
+1446295228 source:/home/jose/Documents/TpGrafo - 11/TadGrafo.c
+	"TadGrafo.h"
+	<stdio.h>
+	<stdlib.h>
+
+1446294651 source:/home/jose/Documents/TpGrafo - 11/Lista.c
+	"Lista.h"
+	"Fila.h"
+	<stdio.h>
+	<stdlib.h>
+
+1446250599 source:/home/jose/Documents/TpGrafo - 12/Fila.c
+	<stdio.h>
+	<stdlib.h>
+	"Fila.h"
+
+1446250610 /home/jose/Documents/TpGrafo - 12/Fila.h
+
+1446329554 source:/home/jose/Documents/TpGrafo - 12/Lista.c
+	"Lista.h"
+	"Fila.h"
+	<stdio.h>
+	<stdlib.h>
+
+1446329291 /home/jose/Documents/TpGrafo - 12/Lista.h
+
+1446327724 source:/home/jose/Documents/TpGrafo - 12/main.c
+	<stdio.h>
+	<stdlib.h>
+	"TadGrafo.h"
+	"Lista.h"
+
+1446329628 /home/jose/Documents/TpGrafo - 12/TadGrafo.h
+
+1446330454 source:/home/jose/Documents/TpGrafo - 12/TadGrafo.c
+	"TadGrafo.h"
+	<stdio.h>
+	<stdlib.h>
+
+1446250599 source:/home/jose/Documents/TpGrafo - 13/Fila.c
+	<stdio.h>
+	<stdlib.h>
+	"Fila.h"
+
+1446250610 /home/jose/Documents/TpGrafo - 13/Fila.h
+
+1446334063 source:/home/jose/Documents/TpGrafo - 13/Lista.c
+	"Lista.h"
+	"Fila.h"
+	<stdio.h>
+	<stdlib.h>
+
+1446329291 /home/jose/Documents/TpGrafo - 13/Lista.h
+
+1446332758 source:/home/jose/Documents/TpGrafo - 13/main.c
+	<stdio.h>
+	<stdlib.h>
+	"TadGrafo.h"
+	"Lista.h"
+
+1446329628 /home/jose/Documents/TpGrafo - 13/TadGrafo.h
+
+1446334305 source:/home/jose/Documents/TpGrafo - 13/TadGrafo.c
+	"TadGrafo.h"
+	<stdio.h>
+	<stdlib.h>
+
+1446250599 source:/home/jose/Documents/TpGrafo - 14/Fila.c
+	<stdio.h>
+	<stdlib.h>
+	"Fila.h"
+
+1446250610 /home/jose/Documents/TpGrafo - 14/Fila.h
+
+1446339382 source:/home/jose/Documents/TpGrafo - 14/main.c
+	<stdio.h>
+	<stdlib.h>
+	"TadGrafo.h"
+	"Lista.h"
+
+1446335661 /home/jose/Documents/TpGrafo - 14/TadGrafo.h
+
+1446339308 /home/jose/Documents/TpGrafo - 14/Lista.h
+
+1446335670 source:/home/jose/Documents/TpGrafo - 14/TadGrafo.c
+	"TadGrafo.h"
+	<stdio.h>
+	<stdlib.h>
+
+1446339293 source:/home/jose/Documents/TpGrafo - 14/Lista.c
+	"Lista.h"
+	"Fila.h"
+	<stdio.h>
+	<stdlib.h>
+
+1446250599 source:/home/jose/Documents/TpGrafo - 15/Fila.c
+	<stdio.h>
+	<stdlib.h>
+	"Fila.h"
+
+1446250610 /home/jose/Documents/TpGrafo - 15/Fila.h
+
+1446402408 source:/home/jose/Documents/TpGrafo - 15/Lista.c
+	"Lista.h"
+	"Fila.h"
+	<stdio.h>
+	<stdlib.h>
+
+1446401913 /home/jose/Documents/TpGrafo - 15/Lista.h
+
+1446340535 source:/home/jose/Documents/TpGrafo - 15/TadGrafo.c
+	"TadGrafo.h"
+	<stdio.h>
+	<stdlib.h>
+
+1446335661 /home/jose/Documents/TpGrafo - 15/TadGrafo.h
+
+1446402406 source:/home/jose/Documents/TpGrafo - 15/main.c
+	<stdio.h>
+	<stdlib.h>
+	"TadGrafo.h"
+	"Lista.h"
+
+1446250599 source:/home/jose/Documents/TpGrafo - 16/Fila.c
+	<stdio.h>
+	<stdlib.h>
+	"Fila.h"
+
+1446250610 /home/jose/Documents/TpGrafo - 16/Fila.h
+
+1446402408 source:/home/jose/Documents/TpGrafo - 16/Lista.c
+	"Lista.h"
+	"Fila.h"
+	<stdio.h>
+	<stdlib.h>
+
+1446403412 /home/jose/Documents/TpGrafo - 16/Lista.h
+
+1446403560 source:/home/jose/Documents/TpGrafo - 16/TadGrafo.c
+	"TadGrafo.h"
+	<stdio.h>
+	<stdlib.h>
+
+1446402814 /home/jose/Documents/TpGrafo - 16/TadGrafo.h
+
+1446404333 source:/home/jose/Documents/TpGrafo - 16/main.c
+	<stdio.h>
+	<stdlib.h>
+	"TadGrafo.h"
+	"Lista.h"
+
+1446250600 source:/media/aluno/JUJU PEN/Grafos/TpGrafo - 16/Fila.c
+	<stdio.h>
+	<stdlib.h>
+	"Fila.h"
+
+1446250610 /media/aluno/JUJU PEN/Grafos/TpGrafo - 16/Fila.h
+
+1446402408 source:/media/aluno/JUJU PEN/Grafos/TpGrafo - 16/Lista.c
+	"Lista.h"
+	"Fila.h"
+	<stdio.h>
+	<stdlib.h>
+
+1446403412 /media/aluno/JUJU PEN/Grafos/TpGrafo - 16/Lista.h
+
+1446404334 source:/media/aluno/JUJU PEN/Grafos/TpGrafo - 16/main.c
+	<stdio.h>
+	<stdlib.h>
+	"TadGrafo.h"
+	"Lista.h"
+
+1446402814 /media/aluno/JUJU PEN/Grafos/TpGrafo - 16/TadGrafo.h
+
+1446658285 source:/media/aluno/JUJU PEN/Grafos/TpGrafo - 16/TadGrafo.c
+	"TadGrafo.h"
+	<stdio.h>
+	<stdlib.h>
+
+1446250600 source:/home/aluno/TpGrafo - 16/Fila.c
+	<stdio.h>
+	<stdlib.h>
+	"Fila.h"
+
+1446250610 /home/aluno/TpGrafo - 16/Fila.h
+
+1446665168 source:/home/aluno/TpGrafo - 16/Lista.c
+	"Lista.h"
+	"Fila.h"
+	<stdio.h>
+	<stdlib.h>
+
+1446661360 /home/aluno/TpGrafo - 16/Lista.h
+
+1446664122 source:/home/aluno/TpGrafo - 16/main.c
+	<stdio.h>
+	<stdlib.h>
+	"TadGrafo.h"
+	"Lista.h"
+
+1446664122 /home/aluno/TpGrafo - 16/TadGrafo.h
+
+1446665494 source:/home/aluno/TpGrafo - 16/TadGrafo.c
+	"TadGrafo.h"
+	<stdio.h>
+	<stdlib.h>
+
+1446250600 source:/home/jose/Downloads/TpGrafo - 16/Fila.c
+	<stdio.h>
+	<stdlib.h>
+	"Fila.h"
+
+1446250610 /home/jose/Downloads/TpGrafo - 16/Fila.h
+
+1446665168 source:/home/jose/Downloads/TpGrafo - 16/Lista.c
+	"Lista.h"
+	"Fila.h"
+	<stdio.h>
+	<stdlib.h>
+
+1446661360 /home/jose/Downloads/TpGrafo - 16/Lista.h
+
+1446675597 source:/home/jose/Downloads/TpGrafo - 16/main.c
+	<stdio.h>
+	<stdlib.h>
+	"TadGrafo.h"
+	"Lista.h"
+
+1446664122 /home/jose/Downloads/TpGrafo - 16/TadGrafo.h
+
+1446676029 source:/home/jose/Downloads/TpGrafo - 16/TadGrafo.c
+	"TadGrafo.h"
+	<stdio.h>
+	<stdlib.h>
+
+1446250600 source:/home/jose/Dropbox/Grafos/TpGrafo - 17/Fila.c
+	<stdio.h>
+	<stdlib.h>
+	"Fila.h"
+
+1446250610 /home/jose/Dropbox/Grafos/TpGrafo - 17/Fila.h
+
+1446676931 source:/home/jose/Dropbox/Grafos/TpGrafo - 17/Lista.c
+	"Lista.h"
+	"Fila.h"
+	<stdio.h>
+	<stdlib.h>
+
+1446661360 /home/jose/Dropbox/Grafos/TpGrafo - 17/Lista.h
+
+1446676344 source:/home/jose/Dropbox/Grafos/TpGrafo - 17/main.c
+	<stdio.h>
+	<stdlib.h>
+	"TadGrafo.h"
+	"Lista.h"
+
+1446664122 /home/jose/Dropbox/Grafos/TpGrafo - 17/TadGrafo.h
+
+1446676030 source:/home/jose/Dropbox/Grafos/TpGrafo - 17/TadGrafo.c
+	"TadGrafo.h"
+	<stdio.h>
+	<stdlib.h>
+
+1446250600 source:/home/jose/Documents/TpGrafo - 17/Fila.c
+	<stdio.h>
+	<stdlib.h>
+	"Fila.h"
+
+1446250610 /home/jose/Documents/TpGrafo - 17/Fila.h
+
+1446676931 source:/home/jose/Documents/TpGrafo - 17/Lista.c
+	"Lista.h"
+	"Fila.h"
+	<stdio.h>
+	<stdlib.h>
+
+1446661360 /home/jose/Documents/TpGrafo - 17/Lista.h
+
+1446676344 source:/home/jose/Documents/TpGrafo - 17/main.c
+	<stdio.h>
+	<stdlib.h>
+	"TadGrafo.h"
+	"Lista.h"
+
+1446664122 /home/jose/Documents/TpGrafo - 17/TadGrafo.h
+
+1446677154 source:/home/jose/Documents/TpGrafo - 17/TadGrafo.c
+	"TadGrafo.h"
+	<stdio.h>
+	<stdlib.h>
+
+1446250600 source:/home/jose/Documents/TP Grafos - Jose N e Juliana/Fila.c
+	<stdio.h>
+	<stdlib.h>
+	"Fila.h"
+
+1446250610 /home/jose/Documents/TP Grafos - Jose N e Juliana/Fila.h
+
+1446683024 source:/home/jose/Documents/TP Grafos - Jose N e Juliana/TadGrafo.c
+	"TadGrafo.h"
+	<stdio.h>
+	<stdlib.h>
+
+1446664122 /home/jose/Documents/TP Grafos - Jose N e Juliana/TadGrafo.h
+
+1446683797 source:/home/jose/Documents/TP Grafos - Jose N e Juliana/main.c
+	<stdio.h>
+	<stdlib.h>
+	"TadGrafo.h"
+	"Lista.h"
+
+1446661360 /home/jose/Documents/TP Grafos - Jose N e Juliana/Lista.h
+
+1446683432 source:/home/jose/Documents/TP Grafos - Jose N e Juliana/Lista.c
+	"Lista.h"
+	"Fila.h"
+	<stdio.h>
+	<stdlib.h>
+
+1446250600 source:/home/jose/Documents/TP Grafos - Jose N e Juliana 2/Fila.c
+	<stdio.h>
+	<stdlib.h>
+	"Fila.h"
+
+1446250610 /home/jose/Documents/TP Grafos - Jose N e Juliana 2/Fila.h
+
+1446684640 source:/home/jose/Documents/TP Grafos - Jose N e Juliana 2/Lista.c
+	"Lista.h"
+	"Fila.h"
+	<stdio.h>
+	<stdlib.h>
+
+1446661360 /home/jose/Documents/TP Grafos - Jose N e Juliana 2/Lista.h
+
+1446684573 source:/home/jose/Documents/TP Grafos - Jose N e Juliana 2/main.c
+	<stdio.h>
+	<stdlib.h>
+	"TadGrafo.h"
+	"Lista.h"
+
+1446685370 /home/jose/Documents/TP Grafos - Jose N e Juliana 2/TadGrafo.h
+
+1446684390 source:/home/jose/Documents/TP Grafos - Jose N e Juliana 2/TadGrafo.c
+	"TadGrafo.h"
+	<stdio.h>
+	<stdlib.h>
+
