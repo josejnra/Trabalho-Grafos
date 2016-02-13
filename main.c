@@ -1,7 +1,7 @@
 /**
 * Trabalho da disciplina Teoria e Modelo de Grafos - Ciência da Computação - UFV
 * Autores - José Nunes e Juliana Rezende
-* Foi utilizado o seguinte repositório como referência para algumas funções
+* Foi utilizado fdsafdo seguinte repositório como referência para algumas funções
 * http://www.ime.usp.br/~pf/algoritmos_para_grafos/
 */
 
